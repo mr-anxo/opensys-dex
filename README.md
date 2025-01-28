@@ -6,4 +6,4 @@ Opensys-Dex est une bibliothèque de documentation d'exploitation pour des solut
 
 | Noms           | Descriptions                                 | Catégories  |
 |----------------|----------------------------------------------|-------------|
-| [Wallix Bastion]([https://google.com](https://gitlab.com/documentation1930217/opensys-dex/wallix-bastion.git)) | Solution de gestion des accès à privilèges   | PAM         |
+| [Wallix Bastion](https://gitlab.com/documentation1930217/opensys-dex/wallix-bastion.git) | Solution de gestion des accès à privilèges   | PAM         |
